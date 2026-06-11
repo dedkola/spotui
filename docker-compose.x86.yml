@@ -1,0 +1,3 @@
+services:
+  spotui:
+    platform: linux/amd64

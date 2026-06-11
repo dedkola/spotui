@@ -1,0 +1,2 @@
+"""SpotUI package."""
+
